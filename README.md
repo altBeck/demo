@@ -1,2 +1,2 @@
 # demo
-Demo Website for Kibobo Energy Limited, a solar and alternateive power provider
+Demo Website for Kibobo Energy Limited, a solar and alternative power provider
